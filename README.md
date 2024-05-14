@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/CahMuniz/CahMuniz/blob/main/CahPNG/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/CahMuniz/CahMuniz/blob/main/img/github-header-image.png"/>
 </div>
 
 -----
