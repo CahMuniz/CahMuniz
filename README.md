@@ -311,6 +311,7 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
+ <!-------
 <tr>
 <td>
 <img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
@@ -341,6 +342,8 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 <img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R6.png?raw=true" alt="R6"/>
 </td>
 </tr>
+ ---->
+ 
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
@@ -349,21 +352,12 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 </details>
 </div>
 
-<div align="center">
-
-```text
-||||||| ||||||| |||||| ||||||| ||      |||
-||      ||   || |||||| ||   || ||      |||
-||      ||||||| || ||  ||   || ||    
-||||||| ||   || ||  || ||||||| ||||||| |||
-```                                        
-
-</div>
 <div>
 <table>
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
+ <!----
 <tr>
 <td>
 <a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
@@ -372,6 +366,8 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 <a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
 </td>
 </tr>
+ ---->
+ 
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
@@ -386,12 +382,10 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
+
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
+| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Cah Muniz</a><br />
+| Última atualização: 29/09/2024
 </td>
 </tr>
 <tr>
@@ -401,7 +395,7 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 </div>
 
 -----
-
+<!--
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
 
 <!---
