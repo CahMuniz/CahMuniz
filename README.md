@@ -402,3 +402,4 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
 -->
+<img height="20" alt="GIF"https://github.com/CahMuniz/CahMuniz?tab=readme-ov-file/>Sobre mim:"/>Sobre mim:
