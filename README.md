@@ -50,7 +50,7 @@
 </div>
 
 -----
-<img align="center" alt="Header" src="img/ursinho.gif"/>Sobre mim:
+<img align="center" alt="Header" src="img/ursinho.gif"/><br>Sobre mim:</br>
 
 <div align="justify">
 Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="https://www.sistemafiep.org.br/cursos-tecnicos/cursos/curso-tecnico-em-manutencao-e-suporte-de-informatica-18-33358-368294.shtml" target="_blank">Curso técnico em Manuençã e Supote</a> pelo <a href="https://www.fiemg.com.br/senai/" target="_blank">Instituição Senai</a>,">Técnologo Análise e Desenvolvimento de Sistemas início (02/2024) previsão de término (07/2026)</a>. Curso Conversação Inglês, Go UP School (01/2023) á (07/2023). <a href="https://goupschool.org/"target= "_blank" E realizei a certificação de introdução Robótica em Arduino na <href="https://www.ifmg.edu.br/betim" target="_blank"
