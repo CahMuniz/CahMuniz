@@ -50,7 +50,7 @@
 </div>
 
 -----
-
+<img align="center" alt="Header" src="img/ursinho.gif"/>Sobre mim:
 <img height="20" alt="GIF"https://github.com/CahMuniz/CahMuniz?tab=readme-ov-file/>Sobre mim:"/>Sobre mim:
 
 <div align="justify">
