@@ -391,13 +391,3 @@ Esperiência - Manutenção e Suporte em Informatica (2020-2023) em <a href="htt
 </tr> 
 </table>
 </div>
-
------
-<!--
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
-
-<!---
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
--->
