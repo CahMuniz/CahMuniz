@@ -9,6 +9,12 @@
 
 <div align="justify"> <i><b>Olá</b> :wave:, sou a <code>Ana Carolina Muniz</code>, tenho 21 anos e moro em Belo Horizonte - MG. Sou apaixonada por tecnologia e desenvolvimento de software, atuando na área de TI desde minha formação técnica. Atualmente sou <code>acadêmica</code> de Análise e Desenvolvimento de Sistemas no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e técnica em Manutenção e Suporte em Informática pelo <a href="https://www.sistemafiep.org.br/cursos-tecnicos/cursos/curso-tecnico-em-manutencao-e-suporte-de-informatica-18-33358-368294.shtml" target="_blank">Senai Horto</a>. Possuo experiência com suporte técnico, na <a href="https://assprom.org.br/" target="_blank">Assprom</a>, com automação de processos, lógica de programação, Microsoft Office 365, metodologias ágeis e desenvolvimento de soluções voltadas para otimização de atividades. Estou sempre em busca de novos conhecimentos e desafios que contribuam para meu crescimento profissional na área de Tecnologia da Informação.</i> :woman_teacher: </div>
 
+<div align="center">
+  <img alt="Ursinho" src="img/ursinho.gif" width="180px"/>
+  <br>
+  <h3>Codando</h3>
+</div>
+
 -----
 
 <div align="center">
@@ -33,7 +39,11 @@
 
 -----
 
-### 📌 Sobre mim
+<div align="center">
+  <img alt="Coding Girl" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120px"/>
+
+  ## 👩‍💻 Sobre Mim
+</div>
 
 <div align="justify">
 
